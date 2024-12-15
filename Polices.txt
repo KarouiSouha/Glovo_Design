@@ -1,0 +1,7 @@
+Les polices utilisés:
+*Segoe UI
+*Montserrat
+*SF Pro Display
+*Arial
+*Microsoft YaHei UI
+*Britannic
